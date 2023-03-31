@@ -1,0 +1,4 @@
+tests/
+.idea/
+config
+build/
